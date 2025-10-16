@@ -29,6 +29,7 @@ export default function Home() {
     // Refresh list
     const res = await fetch("/api/posts");
     const data = await res.json();
+    console.log(data);
     setPosts(data);
   }
 
