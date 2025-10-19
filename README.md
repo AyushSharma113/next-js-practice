@@ -1,10 +1,4 @@
-# next-js-practice
 
-Bhai ek din me **Next.js** pura master karna mushkil hai 😅, lekin mai tujhe **most important topics** ki list de deta hu jisse tu ek hi din me at least **overview + basic project** bana paayega.
-
-⚡ Ye roadmap **Next.js fundamentals + interview-level cheezein** cover karega:
-
----
 
 ## 📌 Next.js One-Day Crash Course Topics
 
